@@ -3221,6 +3221,18 @@
 		(color 0 0 0 0)
 		(uuid "f76a3f92-3269-4ee9-abfd-dbd5403514a4")
 	)
+	(no_connect
+		(at 209.55 120.65)
+		(uuid "4a2d093a-846f-4d55-bb99-0a4c5530fcc2")
+	)
+	(no_connect
+		(at 209.55 100.33)
+		(uuid "f596c4b3-560e-41df-a93f-67f2c12ef5af")
+	)
+	(no_connect
+		(at 245.11 92.71)
+		(uuid "fb27fbee-a186-4fdf-b4f5-0a328ac4283d")
+	)
 	(wire
 		(pts
 			(xy 205.74 57.15) (xy 196.85 57.15)
@@ -4029,7 +4041,7 @@
 	)
 	(global_label "IMU_CLK_EXTI"
 		(shape input)
-		(at 153.67 114.3 180)
+		(at 209.55 110.49 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4039,7 +4051,7 @@
 		)
 		(uuid "3a3120fb-d913-4681-909e-98c2ec203319")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 137.8639 114.3 0)
+			(at 193.7439 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4491,7 +4503,7 @@
 	)
 	(global_label "GYRO_CS{slash}SPI1"
 		(shape input)
-		(at 153.67 121.92 180)
+		(at 209.55 115.57 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4501,7 +4513,7 @@
 		)
 		(uuid "965d25d9-d5da-4e9c-8768-60da459d4ec5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 136.6543 121.92 0)
+			(at 192.5343 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4777,7 +4789,7 @@
 	)
 	(global_label "GYROEXTI"
 		(shape input)
-		(at 153.67 111.76 180)
+		(at 209.55 113.03 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4787,7 +4799,7 @@
 		)
 		(uuid "d0dc102f-9c74-418d-8102-b79a978cd802")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 141.7948 111.76 0)
+			(at 197.6748 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8498,7 +8510,7 @@
 				)
 			)
 		)
-		(property "Footprint" "2N7002KQBZ"
+		(property "Footprint" "samacsys:2N7002KQBZ"
 			(at 73.66 260.02 0)
 			(effects
 				(font
