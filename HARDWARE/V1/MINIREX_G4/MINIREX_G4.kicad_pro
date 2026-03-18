@@ -473,7 +473,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "FC_H7_MINI.kicad_pro",
+    "filename": "MINIREX_G4.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -569,7 +569,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "..\\fichier fabrication v2\\BOM(V2)\\FC_H7_Client.csv",
+    "bom_export_filename": "..\\FAB_FILE\\bom\\MINIREX_G4.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -624,7 +624,7 @@
           "group_by": true,
           "label": "Footprint",
           "name": "Footprint",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -697,14 +697,32 @@
           "label": "Sim.Pin",
           "name": "Sim.Pin",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PRICE(1U)",
+          "name": "PRICE(1U)",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PRICE(100u)",
+          "name": "PRICE(100u)",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
       "name": "",
-      "sort_asc": false,
-      "sort_field": "Reference"
+      "sort_asc": true,
+      "sort_field": "Footprint"
     },
     "connection_grid_size": 50.0,
     "drawing": {

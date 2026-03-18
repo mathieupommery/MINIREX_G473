@@ -3828,26 +3828,6 @@
 		)
 		(uuid "41a51592-ee59-4057-8ed2-1de9347cc926")
 	)
-	(text "GRM21BZ71A226ME15"
-		(exclude_from_sim no)
-		(at 158.75 58.42 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "48cffad8-e543-4298-b935-15d1e256d643")
-	)
-	(text "GRM155R70J104KA01\n"
-		(exclude_from_sim no)
-		(at 81.28 60.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "68ce03f0-be75-4060-a153-753ace8ef555")
-	)
 	(text "MCU LDO"
 		(exclude_from_sim no)
 		(at 155.702 111.252 0)
@@ -3868,15 +3848,15 @@
 		)
 		(uuid "967e83d3-bceb-4408-a693-4d79d9185dcf")
 	)
-	(text "SP3222-02ETG"
+	(text "710-629722000214"
 		(exclude_from_sim no)
-		(at 124.968 95.25 0)
+		(at 46.736 85.344 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 		)
-		(uuid "cf47713d-23e0-466b-87af-5d5f1cc0f9ed")
+		(uuid "96e4da5f-14c7-4d0f-ae5b-2ab4171ce2db")
 	)
 	(text "RED WURTH 150040RS73240"
 		(exclude_from_sim no)
@@ -3887,26 +3867,6 @@
 			)
 		)
 		(uuid "f71f3dd8-83cd-494c-8cac-af861cc3eb22")
-	)
-	(text "GRM21BZ71E475ME15\n"
-		(exclude_from_sim no)
-		(at 59.69 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "f79b5a70-2151-41db-98c0-757ae2350825")
-	)
-	(text "640-USB4110-GF-A"
-		(exclude_from_sim no)
-		(at 36.322 85.598 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "f9e6b048-aad0-45de-b43b-f5845281fa35")
 	)
 	(junction
 		(at 66.04 24.13)
@@ -5627,7 +5587,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22u"
+		(property "Value" "47u"
 			(at 156.845 40.6462 0)
 			(effects
 				(font
@@ -5655,6 +5615,60 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 153.67 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 153.67 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 153.67 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 153.67 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM21BR61A476ME5K"
+			(at 153.67 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "81-GRM21BR61A476ME5K"
+			(at 153.67 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 153.67 39.37 0)
 			(effects
 				(font
@@ -5982,6 +5996,33 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 248.92 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 248.92 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 248.92 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b290e421-d0bd-4a6f-a345-374f90dc6e15")
 		)
@@ -6079,6 +6120,33 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 166.37 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 166.37 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 166.37 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3956f653-e32a-4f31-a377-f7f39062c58a")
 		)
@@ -6168,6 +6236,33 @@
 			)
 		)
 		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 162.56 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 162.56 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 162.56 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 162.56 129.54 0)
 			(effects
 				(font
@@ -6317,6 +6412,33 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 210.82 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 210.82 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 210.82 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "a7262772-cfcb-4e99-8cde-07bdd6e96dfb")
 		)
@@ -6403,6 +6525,33 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 93.98 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 93.98 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 93.98 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9a51d7d7-307e-408e-8127-0868e1b98936")
 		)
@@ -6462,6 +6611,60 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 55.88 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 55.88 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 55.88 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 55.88 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRT21BD72A225KE13"
+			(at 55.88 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "81-GRT21BD72A225KE13"
+			(at 55.88 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 55.88 26.67 0)
 			(effects
 				(font
@@ -6532,6 +6735,60 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 137.16 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 137.16 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 137.16 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-1GNF1912C"
+			(at 137.16 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-1GNF1912C"
+			(at 137.16 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 137.16 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 137.16 50.8 0)
 			(effects
 				(font
@@ -6669,6 +6926,60 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 46.99 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 46.99 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 46.99 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 46.99 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRT21BD72A225KE13"
+			(at 46.99 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "81-GRT21BD72A225KE13"
+			(at 46.99 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 46.99 26.67 0)
 			(effects
 				(font
@@ -6841,6 +7152,33 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 233.68 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 233.68 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 233.68 80.01 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "57f76e1c-123b-4bbf-af1f-8455dfb1b466")
 		)
@@ -6977,6 +7315,33 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 85.09 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 85.09 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 85.09 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7159,7 +7524,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" ""
+		(property "Mouser Part Number" "710-74479335329247"
 			(at 134.62 731.75 0)
 			(effects
 				(font
@@ -7196,6 +7561,33 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 118.11 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 118.11 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 118.11 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -7603,6 +7995,33 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 80.01 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 80.01 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 80.01 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "58f7564c-a940-4fdb-88f3-a7e3ff3f00fb")
 		)
@@ -7740,6 +8159,33 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 114.3 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 114.3 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 114.3 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ab246f24-72b3-46fe-a656-d599efd3e91d")
 		)
@@ -7831,6 +8277,33 @@
 			)
 		)
 		(property "Manufacturer_Name" "Panasonic"
+			(at 226.06 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 226.06 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 226.06 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 226.06 116.84 0)
 			(effects
 				(font
@@ -7975,7 +8448,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Name" "GCT"
+		(property "Manufacturer_Name" "Wurth Elektronik"
 			(at 66.04 106.68 0)
 			(effects
 				(font
@@ -7984,7 +8457,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "USB4110-GF-A"
+		(property "Manufacturer_Part_Number" "629722000214"
 			(at 66.04 106.68 0)
 			(effects
 				(font
@@ -7993,7 +8466,34 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "640-USB4110-GF-A"
+		(property "Mouser Part Number" "710-629722000214"
+			(at 66.04 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 66.04 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 66.04 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 66.04 106.68 0)
 			(effects
 				(font
@@ -8075,7 +8575,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22u"
+		(property "Value" "47u"
 			(at 147.955 40.6462 0)
 			(effects
 				(font
@@ -8103,6 +8603,60 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 144.78 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 144.78 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 144.78 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 144.78 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM21BR61A476ME5K"
+			(at 144.78 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "81-GRM21BR61A476ME5K"
+			(at 144.78 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 144.78 39.37 0)
 			(effects
 				(font
@@ -8173,6 +8727,60 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 137.16 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 137.16 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "ERJ-1GNF1003C"
+			(at 137.16 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "667-ERJ-1GNF1003C"
+			(at 137.16 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Panasonic"
+			(at 137.16 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 137.16 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 137.16 43.18 0)
 			(effects
 				(font
@@ -8252,6 +8860,33 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 101.6 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 101.6 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 101.6 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ab91a0f9-2e54-48de-a59a-5e55221314a8")
 		)
@@ -8319,7 +8954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "885012105012 "
+		(property "Manufacturer_Part_Number" "885012105012"
 			(at 250.19 133.35 0)
 			(effects
 				(font
@@ -8328,7 +8963,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "710-885012105012 "
+		(property "Mouser Part Number" "710-885012105012"
 			(at 250.19 133.35 0)
 			(effects
 				(font
@@ -8338,6 +8973,33 @@
 			)
 		)
 		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 250.19 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 250.19 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 250.19 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 250.19 133.35 0)
 			(effects
 				(font
@@ -8441,6 +9103,33 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 95.25 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 95.25 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 95.25 109.22 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "91c4694c-de62-4e76-b59f-cc6be816e0e4")
 		)
@@ -8503,6 +9192,60 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 66.04 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 66.04 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 66.04 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Murata"
+			(at 66.04 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GRM155R62A104ME4J"
+			(at 66.04 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "81-GRM155R62A104ME4J"
+			(at 66.04 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 66.04 26.67 0)
 			(effects
 				(font
@@ -8691,6 +9434,33 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 246.38 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 246.38 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 246.38 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f574997e-07ff-4628-9440-4331ad5fe5e1")
 		)
@@ -8754,6 +9524,33 @@
 			)
 		)
 		(property "Description" "test point"
+			(at 101.6 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 101.6 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 101.6 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 101.6 100.33 0)
 			(effects
 				(font
@@ -8851,7 +9648,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "74279220800"
+		(property "Manufacturer_Part_Number" "710-74279220800"
 			(at 184.15 622.86 0)
 			(effects
 				(font
@@ -8898,6 +9695,33 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 167.64 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 167.64 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 167.64 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -9054,6 +9878,33 @@
 			)
 		)
 		(property "Manufacturer_Name" "Panasonic"
+			(at 83.82 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 83.82 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 83.82 99.06 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 83.82 99.06 90)
 			(effects
 				(font
@@ -9248,6 +10099,33 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 248.92 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 248.92 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 248.92 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3cb86a3-ff40-4d56-867e-769f38f0df1a")
 		)
@@ -9335,6 +10213,33 @@
 			)
 		)
 		(property "Manufacturer_Name" "Panasonic"
+			(at 83.82 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 83.82 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 83.82 96.52 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 83.82 96.52 90)
 			(effects
 				(font
@@ -9479,7 +10384,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer_Part_Number" "885012105012 "
+		(property "Manufacturer_Part_Number" "885012105012"
 			(at 248.92 91.44 0)
 			(effects
 				(font
@@ -9488,7 +10393,7 @@
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "710-885012105012 "
+		(property "Mouser Part Number" "710-885012105012"
 			(at 248.92 91.44 0)
 			(effects
 				(font
@@ -9498,6 +10403,33 @@
 			)
 		)
 		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 248.92 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 248.92 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 248.92 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 248.92 91.44 0)
 			(effects
 				(font
@@ -9594,6 +10526,33 @@
 			)
 		)
 		(property "Mouser Part Number" "667-ERJ-1GNF22R0C"
+			(at 95.25 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 95.25 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 95.25 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 95.25 106.68 90)
 			(effects
 				(font
@@ -9743,6 +10702,33 @@
 				(hide yes)
 			)
 		)
+		(property "Field5" ""
+			(at 209.55 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 209.55 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
+			(at 209.55 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5c2e6ac4-93ae-48b4-a70d-b84457303fa7")
 		)
@@ -9864,6 +10850,33 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 238.76 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 238.76 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 238.76 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 238.76 116.84 0)
 			(effects
 				(font
@@ -10198,6 +11211,60 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 115.57 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Field5" ""
+			(at 115.57 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "885012104005"
+			(at 115.57 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "710-885012104005"
+			(at 115.57 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(1U)" ""
+			(at 115.57 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Wurth Elektronik"
+			(at 115.57 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PRICE(100u)" ""
 			(at 115.57 25.4 0)
 			(effects
 				(font
