@@ -21,19 +21,15 @@
 
 #pragma once
 
-#define FC_TARGET_MCU     STM32H743
+#define FC_TARGET_MCU     STM32G473
 
-#define BOARD_NAME        ADROHA_H7
-#define MANUFACTURER_ID   ADROHA
+#define BOARD_NAME        MINIREX_G4
+#define MANUFACTURER_ID   POMMERY
 
 #define USE_ACC
 #define USE_ACC_SPI_ICM42688P
 #define USE_GYRO
 #define USE_GYRO_SPI_ICM42688P
-#define USE_BARO
-#define USE_BARO_DPS310
-#define USE_MAX7456
-#define USE_SDCARD
 
 #define BEEPER_PIN           PA15
 
