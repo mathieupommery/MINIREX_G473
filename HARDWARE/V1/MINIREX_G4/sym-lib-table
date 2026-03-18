@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "minirex_g4")(type "KiCad")(uri "${KIPRJMOD}/minirex_g4.kicad_sym")(options "")(descr ""))
+)

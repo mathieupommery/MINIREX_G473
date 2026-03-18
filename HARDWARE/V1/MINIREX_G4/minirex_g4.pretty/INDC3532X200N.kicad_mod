@@ -1,0 +1,262 @@
+(footprint "INDC3532X200N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "353220")
+	(tags "Inductor")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "da2349b8-8376-439e-a176-9ae3e70aa14c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "74479335329247"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "6eeaaa0f-41ca-4332-91a5-23d00fdbd0c7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.we-online.com/components/products/datasheet/74479335329247.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "860636b6-9b7e-4b69-b223-71f28f332b1b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "4.7 H Shielded Molded Inductor 3.85 A 80mOhm Max Nonstandard"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75279eac-b941-4d28-af54-adbd6687dbff")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b14d31b9-ceac-4449-adeb-6dc2bf4c4fc6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Wurth Elektronik"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "010e3946-36af-4e23-a46e-0128f448d490")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "74479335329247"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6035ffda-c4c7-43de-974b-7f0530e42ab0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "362da9f9-cd3d-4188-bc04-4150f38c6bb3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "04419196-f34b-49fa-ba47-4a1d855f3e51")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "54ae9dd6-cc15-483b-8d49-5735bba229ab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d71ea3fb-c1d8-4f38-ad87-ddd4e3f6fa3a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start 0 -1.5)
+		(end 0 1.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1cb1d3c1-cb3d-45ae-aba9-0410f94723d2")
+	)
+	(fp_line
+		(start -2.45 -1.95)
+		(end 2.45 -1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dc99b4ee-0a64-41d4-a798-a6eec9b32118")
+	)
+	(fp_line
+		(start -2.45 1.95)
+		(end -2.45 -1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "29f42207-0c63-4c50-b8e9-95c3b326c621")
+	)
+	(fp_line
+		(start 2.45 -1.95)
+		(end 2.45 1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "eaff67b6-b065-4c19-8b0e-3fd92464309f")
+	)
+	(fp_line
+		(start 2.45 1.95)
+		(end -2.45 1.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c280cb3d-b470-4696-a27e-49ba5dcc3485")
+	)
+	(fp_line
+		(start -1.75 -1.6)
+		(end 1.75 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5f16c145-1f6c-492b-8b97-647b482b19d5")
+	)
+	(fp_line
+		(start -1.75 1.6)
+		(end -1.75 -1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8f80fc2b-8ae5-45f1-8528-6ffea8650563")
+	)
+	(fp_line
+		(start 1.75 -1.6)
+		(end 1.75 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "534c8c9b-c43c-432a-a9b5-7e9270257f37")
+	)
+	(fp_line
+		(start 1.75 1.6)
+		(end -1.75 1.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d3b88d94-42c5-4f22-a2f3-44d341e88bc4")
+	)
+	(pad "1" smd rect
+		(at -1.35 0)
+		(size 1.7 3.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3a7a32be-47de-4c21-abe4-aa6972257143")
+	)
+	(pad "2" smd rect
+		(at 1.35 0)
+		(size 1.7 3.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f02a95f2-a67a-4238-a52b-ae534078bba2")
+	)
+	(embedded_fonts no)
+	(model "C:\\Users\\mathi\\Desktop\\projet\\libloader2\\SamacSys_Parts.3dshapes\\74479335329247.stp"
+		(offset
+			(xyz 0 0 1)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

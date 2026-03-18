@@ -1,0 +1,391 @@
+(footprint "IIM42352"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "14 Lead LGA (2.5x3x0.91)_1")
+	(tags "Integrated Circuit")
+	(property "Reference" "REF**"
+		(at -0.225 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c2c92194-d441-4733-b87a-d16ca706fbef")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "ICM-42688-P"
+		(at -0.225 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ed37897d-51b3-4e34-abf1-cb74c87ebc2c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://3cfeqx1hf82y3xcoull08ihx-wpengine.netdna-ssl.com/wp-content/uploads/2021/06/DS-000347-ICM-42688-P-v1.5.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3611540b-5946-4cd9-b2a7-0956e1be1097")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "IMU (Inertial Measurement Unit), 6-Axis, Accelerometer, Gyroscope"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4b8684ea-a73b-4252-9b76-9f8fc5388f79")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67e3fbb1-2d54-4f67-bef7-9b732bd8bb79")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "410-ICM-42688-P"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd7885f9-e9df-439a-9bea-2747443b003f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/TDK-InvenSense/ICM-42688-P?qs=OlC7AqGiEDk8QrNAV728zw%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4bfd0eed-6799-47bb-94b3-915f8196207e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "TDK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "95ccaae5-d789-44ad-9bc7-a94ae69992d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "ICM-42688-P"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4e2c7d43-8005-4c3d-8dc2-1efbb478e49a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.9 -0.8)
+		(end -1.9 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "929d660b-2aab-4097-8051-7b4b2676f285")
+	)
+	(fp_line
+		(start -1.9 -0.7)
+		(end -1.9 -0.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c4e45cbf-3087-4d05-b535-a246ff2916ea")
+	)
+	(fp_line
+		(start -1.5 -1.25)
+		(end -0.8 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a33907ba-ddff-4350-b12f-079788242d34")
+	)
+	(fp_line
+		(start -1.5 -1)
+		(end -1.5 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b3be18e6-f7b9-49a4-98f8-63e8d11a0949")
+	)
+	(fp_line
+		(start -1.5 1.1)
+		(end -1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "90d8e150-dc18-4679-b0f7-1742ed289546")
+	)
+	(fp_line
+		(start -1.5 1.25)
+		(end -0.8 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b8d707c6-5a90-4134-ae56-d69423c486bb")
+	)
+	(fp_line
+		(start 0.8 -1.25)
+		(end 1.5 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cff73e11-5400-40d0-89d4-ed7a40a58bd7")
+	)
+	(fp_line
+		(start 0.8 1.25)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1392c59d-402d-45e4-be19-f8e5dbbe5b86")
+	)
+	(fp_line
+		(start 1.5 -1.25)
+		(end 1.5 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "51ce81b7-4b21-405d-b11e-9a651dcf12a3")
+	)
+	(fp_line
+		(start 1.5 1.25)
+		(end 1.5 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "95910794-65fb-4f99-8e5a-8cf5ace966c4")
+	)
+	(fp_arc
+		(start -1.9 -0.8)
+		(mid -1.85 -0.75)
+		(end -1.9 -0.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7937225f-c9f6-427b-a428-6c9cea20cc4c")
+	)
+	(fp_arc
+		(start -1.9 -0.7)
+		(mid -1.95 -0.75)
+		(end -1.9 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "a90e0cdf-c058-4356-8bfc-967623a3d168")
+	)
+	(fp_rect
+		(start -1.675 -1.425)
+		(end 1.675 1.4)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "ff21b709-74c8-4ed4-92f0-75023420cef8")
+	)
+	(fp_line
+		(start -1.5 -1.25)
+		(end 1.5 -1.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ec855916-964f-41d4-9b52-4776fd1983b3")
+	)
+	(fp_line
+		(start -1.5 1.25)
+		(end -1.5 -1.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "49373d7b-2617-483b-90d8-276a377da2a9")
+	)
+	(fp_line
+		(start 1.5 -1.25)
+		(end 1.5 1.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "863bc7d1-ccb7-40ae-8860-c83ec4a2506d")
+	)
+	(fp_line
+		(start 1.5 1.25)
+		(end -1.5 1.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "dce35195-4254-49f6-90bf-342742c597ab")
+	)
+	(pad "1" smd rect
+		(at -1.15 -0.75 90)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "950e114a-3d28-48db-aebb-90ec1659515a")
+	)
+	(pad "2" smd rect
+		(at -1.15 -0.25 90)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d9a50145-c19b-4872-8714-90b6090d952e")
+	)
+	(pad "3" smd rect
+		(at -1.15 0.25 90)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a6f80832-4da7-4e11-a609-f1eb28da44b5")
+	)
+	(pad "4" smd rect
+		(at -1.15 0.75 90)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "aefa56d7-fe40-44ce-bc05-efb635e9ed4e")
+	)
+	(pad "5" smd rect
+		(at -0.5 0.9)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cde7d345-33a7-49af-9751-32eedb65e2bb")
+	)
+	(pad "6" smd rect
+		(at 0 0.9)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9ac01590-9606-4cf4-8b12-683c064c39eb")
+	)
+	(pad "7" smd rect
+		(at 0.5 0.9)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "543b0286-75f7-4f3b-8931-3ff5841c00b2")
+	)
+	(pad "8" smd rect
+		(at 1.15 0.75 90)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d8502217-5eac-4824-815d-90bc14dcd7c1")
+	)
+	(pad "9" smd rect
+		(at 1.15 0.25 90)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7ccc1d4b-6450-4cd1-b136-1e9aa5c54504")
+	)
+	(pad "10" smd rect
+		(at 1.15 -0.25 90)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a6a314d2-5732-4bb5-9262-5eb1c9ccb2ab")
+	)
+	(pad "11" smd rect
+		(at 1.15 -0.75 90)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3db53cb8-69c6-48c8-a9d1-eee4a0df3c36")
+	)
+	(pad "12" smd rect
+		(at 0.5 -0.9)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "bbd828dd-b5a8-4caf-b756-53781c2686b6")
+	)
+	(pad "13" smd rect
+		(at 0 -0.9)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "60cd20ec-d255-4805-a916-b96321d95bdc")
+	)
+	(pad "14" smd rect
+		(at -0.5 -0.9)
+		(size 0.3 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "50d1e04c-7c8d-4f1c-b0ca-178f48897a1e")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/mathi/Desktop/projet/libloader/SamacSys_Parts.3dshapes/ICM-42688-P.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

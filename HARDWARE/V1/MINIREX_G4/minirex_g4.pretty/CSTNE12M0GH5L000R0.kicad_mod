@@ -1,0 +1,265 @@
+(footprint "CSTNE12M0GH5L000R0"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "CSTNE12M0GH5L000R0-2")
+	(tags "Crystal or Oscillator")
+	(property "Reference" "REF**"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "0d80c1a1-2390-4469-9638-a32ccce27dff")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "CSTNE8M00GH5C000R0"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "8024c89e-cfe4-48ad-b032-eb2254cb2948")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.murata.com/en-us/products/productdetail.aspx?cate=cgsubResonators&partno=CSTNE8M00GH5C000R0"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6cb1d651-86c5-4f71-8101-8ae2063cc0ba")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Resonators 8.0000MHz 33pF SMD CHP Rsntr 0.07% AUTO"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3f66b0dc-d36e-4b52-9f46-7a3f926ea58e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "0.8"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f6b590d9-6eea-4183-a34d-81e25f94c9d3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "81-CSTNE8M00GH5C000R"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76a6a15b-9279-4703-9e04-ba0e15ceabfd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/CSTNE8M00GH5C000R0?qs=y6ZabgHbY%252ByuG8XwUR67qA%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "afc33670-15e5-4866-a097-21ac108c2022")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Murata Electronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f95a64c0-4554-4d15-80be-68eca6747fbc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "CSTNE8M00GH5C000R0"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0e8d3549-1efd-4637-9af1-f63193fc52dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.6 -0.65)
+		(end -1.6 0.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5654bd12-1d60-4ae0-b80d-6249b8e0526e")
+	)
+	(fp_line
+		(start 1.28 -1.36)
+		(end 1.28 -1.36)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3ae92b5-3c55-4d68-a79d-44a873a650be")
+	)
+	(fp_line
+		(start 1.48 -1.36)
+		(end 1.48 -1.36)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f1f3c32c-b7eb-4083-8d83-f312941cb1e3")
+	)
+	(fp_line
+		(start 1.6 -0.65)
+		(end 1.6 0.65)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3f4bbb3e-5032-4e73-8a35-bb4c78611a6c")
+	)
+	(fp_arc
+		(start 1.28 -1.36)
+		(mid 1.38 -1.46)
+		(end 1.48 -1.36)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "78de2ef4-4f6a-410e-b89f-de713436d4e6")
+	)
+	(fp_arc
+		(start 1.48 -1.36)
+		(mid 1.38 -1.26)
+		(end 1.28 -1.36)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d328248f-fb77-4b21-aba2-b4a62b259371")
+	)
+	(fp_rect
+		(start -1.8 -1.025)
+		(end 1.8 1.05)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "4315f00e-1625-4865-b6b8-47f0a1d66a54")
+	)
+	(fp_line
+		(start -1.6 -0.65)
+		(end 1.6 -0.65)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3775ac65-502b-4c84-87b9-109127fbd125")
+	)
+	(fp_line
+		(start -1.6 0.65)
+		(end -1.6 -0.65)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a77bb0c5-581e-40ee-84c1-c62d04ee439e")
+	)
+	(fp_line
+		(start 1.6 -0.65)
+		(end 1.6 0.65)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9cfeeec8-39f0-4b42-a550-bf5413f4bc52")
+	)
+	(fp_line
+		(start 1.6 0.65)
+		(end -1.6 0.65)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4c219da7-e10a-4f27-a89a-145bb39dca6e")
+	)
+	(pad "1" smd rect
+		(at 1.2 0)
+		(size 0.4 1.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "dbf37f0f-6c9d-404d-8dc3-d81b2f3165b5")
+	)
+	(pad "2" smd rect
+		(at 0 0)
+		(size 0.4 1.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "29b75764-b2c1-4854-aaae-f96ba545e6b9")
+	)
+	(pad "3" smd rect
+		(at -1.2 0)
+		(size 0.4 1.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8bab6615-e4ff-4e7b-ad02-903d33e9e07f")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/mathi/Desktop/projet/libloader/SamacSys_Parts.3dshapes/CSTNE8M00GH5C000R0.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,158 @@
+(footprint "R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Resistor SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC-7351 nominal with elongated pad for handsoldering. (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator")
+	(tags "resistor handsolder")
+	(property "Reference" "REF**"
+		(at 0 -1.05 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "43779d1f-9850-419c-9b02-0d29a2748d95")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "10k"
+		(at 0 1.05 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2b64724f-76e8-4b0d-bc16-d34e9bffe048")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d9e58ed6-5eb5-4c3b-9104-36b4a0e9b4be")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Resistor, small symbol"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e275b48-0559-4f66-b9f7-c0456f2a9696")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "ERJ-1GNF1002C"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b10ade0-a5f9-4e6d-9c9b-1106a5f1cd9e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "667-ERJ-1GNF1002C"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b68ebade-f131-4b56-9ed1-72dffb0a9cc3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Panasonic"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a93e4a01-db30-4543-92fe-ea8d601ff817")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -0.88 -0.35)
+		(end 0.88 0.35)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "64daf60c-e0b6-4678-b09c-5abf619e372c")
+	)
+	(fp_rect
+		(start -0.3 -0.15)
+		(end 0.3 0.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "65929ba0-26d6-4db2-be52-7dc8a8e51bb7")
+	)
+	(pad "" smd roundrect
+		(at -0.4325 0)
+		(size 0.458 0.36)
+		(layers "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "92ea2e81-6bc4-43d0-8907-b52dc8f7cf22")
+	)
+	(pad "" smd roundrect
+		(at 0.4325 0)
+		(size 0.458 0.36)
+		(layers "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "541a4122-946d-4b1e-8fb6-804b121f72c6")
+	)
+	(pad "1" smd roundrect
+		(at -0.4075 0)
+		(size 0.635 0.4)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "70301d2e-6fc0-40cf-8bcf-a7b70621ab54")
+	)
+	(pad "2" smd roundrect
+		(at 0.4075 0)
+		(size 0.635 0.4)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.25)
+		(uuid "9821dde0-d77a-48fe-8bd4-4ccfd2118a6e")
+	)
+	(embedded_fonts no)
+	(model "${KICAD9_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0201_0603Metric.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,209 @@
+(footprint "2N7002KQBZ"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "2N7002KQBZ")
+	(tags "MOSFET (N-Channel)")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a7f101fc-7e12-4211-8428-eda64ac38518")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "2N7002KQBZ"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "44bf6d68-bbe0-4c19-af05-76cdbc1b7e15")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/2N7002KQB.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bbb74d89-f903-48ec-9bed-4b72a5894aac")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "N-Channel 60 V 720mA (Ta) 420mW (Ta), 4.2W (Tc) Surface Mount, Wettable Flank DFN1110D-3"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "87d49c99-44cd-429b-99f5-9757ada4f1b0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "0.5"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "03a6ea4f-c643-4cf8-8b2e-631d6a407044")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "771-2N7002KQBZ"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40ae0aed-13fb-45e9-bd30-8d27e3caff55")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/2N7002KQBZ?qs=A6eO%252BMLsxmQEVgBEiM5VjQ%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b07057d6-00d8-410b-a7cd-c180bd17e9c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Nexperia"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f38647e-70d1-4bda-ac32-a093d5f8a715")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "2N7002KQBZ"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "344f7143-f356-4e31-bdec-a8738f884603")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -0.7 -0.84)
+		(end 0.68 0.91)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "a0ccd784-d646-460f-9e0f-0c074b83970a")
+	)
+	(fp_line
+		(start -0.55 -0.5)
+		(end -0.55 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fa0aa58e-5447-484e-85c1-e8041bb303b1")
+	)
+	(fp_line
+		(start -0.55 0.5)
+		(end 0.55 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8a87dfe7-fa47-4e03-9b8d-6db87cc7e3b1")
+	)
+	(fp_line
+		(start 0.55 -0.5)
+		(end -0.55 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "df5f844b-86a8-4fca-a834-cc89b5e64558")
+	)
+	(fp_line
+		(start 0.55 0.5)
+		(end 0.55 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d4919ba9-6be7-42ca-a7f1-1bbb5a31148c")
+	)
+	(pad "1" smd rect
+		(at -0.325 0.5)
+		(size 0.35 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "80d65794-8535-4790-9b5f-b18b77c1847d")
+	)
+	(pad "2" smd rect
+		(at 0.325 0.5)
+		(size 0.35 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6a11c02d-af53-4652-ad78-7aa0adff1e99")
+	)
+	(pad "3" smd rect
+		(at 0 -0.19 90)
+		(size 0.44 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e668537a-7bbd-4d6a-80e8-c765fb52665e")
+	)
+	(pad "4" smd rect
+		(at 0 -0.58)
+		(size 0.3 0.34)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a390bfcf-ba31-4703-bc39-a78a9ce96cab")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/mathi/Desktop/projet/libloader/SamacSys_Parts.3dshapes/2N7002KQBZ.stp"
+		(offset
+			(xyz -0.4 -0.75 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -0 -0)
+		)
+	)
+)

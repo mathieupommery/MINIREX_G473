@@ -1,0 +1,220 @@
+(footprint "SM08BSRSSTB"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SM08B-SRSS-TB-1")
+	(tags "Connector")
+	(property "Reference" "REF**"
+		(at 0 -0.288 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d88e9516-8401-4071-9e1b-6ac722524380")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SM08B-SRSS-TB"
+		(at 0 -0.288 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b28b7d59-954e-482f-ad38-fb1cf5095c07")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.jst-mfg.com/product/pdf/eng/eSH.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9cac8a67-176e-4319-b86d-ae25b220a010")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Connector Header Surface Mount, Right Angle 8 position 0.039\" (1.00mm)"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32ada8f0-db86-4cae-8dc1-703b557f29eb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "2.95"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75c16067-20dc-4a9d-a5a8-94772266610c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "JST (JAPAN SOLDERLESS TERMINALS)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5a4010d8-8a14-4bcf-8332-ac608a8ab451")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "SM08B-SRSS-TB"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3ca29bda-e938-4aa0-bfbd-42e33caa4644")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "N/A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b1b82fb-0d76-4b00-8db0-0dc1a9aa3ef6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/JST-Commercial/SM08B-SRSS-TB?qs=IKkN%2F947nfBrj0Hsszhebg%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "587a1648-0d18-44ff-aab3-aba6ad28d264")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d0afaff2-3357-436c-a6c0-ba8b0f421a65")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "32fce6aa-b9b6-456b-9afc-1484e5abb2a6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(pad "1" smd rect
+		(at -3.5 -2.288)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7f4dfb96-e2f6-4911-9a10-caae5153875b")
+	)
+	(pad "2" smd rect
+		(at -2.5 -2.288)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "bf7ae8cf-7a92-45cd-8003-53b21a3d0fbb")
+	)
+	(pad "3" smd rect
+		(at -1.5 -2.288)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7c8917ec-c977-4f0d-b11c-c26051a066d4")
+	)
+	(pad "4" smd rect
+		(at -0.5 -2.288)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7fe97b5e-4777-4cfc-9914-02033bd10bf8")
+	)
+	(pad "5" smd rect
+		(at 0.5 -2.288)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7e1d8c1c-b6f5-4396-a368-8ab5557694f0")
+	)
+	(pad "6" smd rect
+		(at 1.5 -2.288)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2f59d648-e0e1-4a1e-b314-da39718f6fe4")
+	)
+	(pad "7" smd rect
+		(at 2.5 -2.288)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6112e484-f6ad-470b-8342-c1996199ae98")
+	)
+	(pad "8" smd rect
+		(at 3.5 -2.288)
+		(size 0.6 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "423bf1e8-73d9-4958-97a0-435d16c0dbf0")
+	)
+	(pad "9" smd rect
+		(at -4.8 1.588)
+		(size 1.2 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8222b4fc-414f-4121-aa98-fab7edc3f6c5")
+	)
+	(pad "10" smd rect
+		(at 4.8 1.588)
+		(size 1.2 1.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d70091ac-ef05-4263-911a-6cb75f6e1687")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/mathi/Desktop/projet/libloader/SamacSys_Parts.3dshapes/SM08B-SRSS-TB.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

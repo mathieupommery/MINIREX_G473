@@ -1,0 +1,227 @@
+(footprint "SOD2513X117N"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SOD-323")
+	(tags "Schottky Diode")
+	(property "Reference" "REF**"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3c94f29d-a593-4d2a-8e06-ed5b7e6c9575")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "BAT60JFILM"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "3c1e3c6d-2cdd-485e-8daa-b42a0f2e85e2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.mouser.jp/datasheet/2/389/cd00001944-1795661.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "666d892a-711b-4383-ad34-67b8f1c8eb39")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "SMALL SIGNAL SCHOTTKY DIODE"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "50a829e1-53c7-4a19-8ea4-0a1e55cad2df")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "1.17"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40ab25ef-8648-4085-b3a7-e87564a37f2c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "511-BAT60JFILM"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "303b38e3-8aba-4c0b-94cf-7dd159b83332")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/BAT60JFILM?qs=GnFZssByvVVVnMaukcyLZg%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "57df2a79-c19d-46db-9539-9b2c93844f81")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "STMicroelectronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cfc58796-860f-45f7-9765-0fb6372246d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "BAT60JFILM"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3d1a3664-b937-4184-a779-d06ab6ebf545")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.682 -0.64)
+		(end 0.83 -0.64)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "26491bbd-e88b-447e-8d84-07262675a6b0")
+	)
+	(fp_line
+		(start -0.83 0.64)
+		(end 0.83 0.64)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0b43d578-5033-453f-bd23-925314bed56a")
+	)
+	(fp_rect
+		(start -1.825 -0.825)
+		(end 1.85 0.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "2a700890-1e6d-4657-a727-4e02649ba26e")
+	)
+	(fp_line
+		(start -0.83 -0.64)
+		(end 0.83 -0.64)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "76351a67-9868-4dfd-a8cf-5dc1f9ecbc68")
+	)
+	(fp_line
+		(start -0.83 -0.098)
+		(end -0.288 -0.64)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ad50b4d4-4926-4e46-b604-b107103a60e7")
+	)
+	(fp_line
+		(start -0.83 0.64)
+		(end -0.83 -0.64)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3e5a82f1-3ead-4164-b732-d931d44413d0")
+	)
+	(fp_line
+		(start 0.83 -0.64)
+		(end 0.83 0.64)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "eaf10e7c-6de2-4c98-9f61-29c2f5e29d97")
+	)
+	(fp_line
+		(start 0.83 0.64)
+		(end -0.83 0.64)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "7d3ededf-59bb-4e7b-8710-3637f1ab36e8")
+	)
+	(pad "1" smd rect
+		(at -1.14 0 90)
+		(size 0.55 1.085)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ae7178ba-f094-46ee-9317-9d8ad4e824aa")
+	)
+	(pad "2" smd rect
+		(at 1.14 0 90)
+		(size 0.55 1.085)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "aca48f76-ab9b-4be4-8c46-65c8c828f96d")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/mathi/Desktop/projet/libloader/SamacSys_Parts.3dshapes/BAT60JFILM.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
