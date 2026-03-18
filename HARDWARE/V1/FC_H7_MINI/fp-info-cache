@@ -1,4 +1,4 @@
-27479474200820345
+27483022219222361
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -108871,12 +108871,26 @@ Integrated Circuit
 9
 9
 samacsys2
+SON80P400X400X60-9N
+USON(4X4)UNF008
+Integrated Circuit
+0
+9
+9
+samacsys2
 SON127P600X500X80-9N-D
 WSON-8 6x5-mm_2022
 Integrated Circuit
 0
 9
 9
+samacsys2
+SP322202ETG
+SP3222-02ETG-3
+TVS Diode (Uni-directional)
+0
+3
+3
 samacsys2
 SQS484ENT1
 PowerPAK® -1212-8 Single

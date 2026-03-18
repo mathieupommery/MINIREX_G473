@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.15
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -146,9 +146,9 @@
         {
           "td_onpthpad": true,
           "td_onroundshapesonly": false,
-          "td_onsmdpad": true,
+          "td_onsmdpad": false,
           "td_ontrackend": false,
-          "td_onvia": true
+          "td_onvia": false
         }
       ],
       "teardrop_parameters": [
@@ -558,10 +558,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../fichier fabrication v2 bis/gerber(v2bis)/fc_h7_v2_bis/",
+      "plot": "../fichier fabrication/gerber/",
       "pos_files": "../fichier fabrication v2 bis/PickAndPlace(V2bis)/",
       "specctra_dsn": "",
-      "step": "../3d file/FC_H7_Client.step",
+      "step": "../3d file/v1.step",
       "svg": "",
       "vrml": ""
     },
