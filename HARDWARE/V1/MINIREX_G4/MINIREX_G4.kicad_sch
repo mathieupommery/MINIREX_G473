@@ -10432,7 +10432,7 @@
 		)
 	)
 	(sheet
-		(at 307.34 58.42)
+		(at 269.24 54.61)
 		(size 45.72 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10448,7 +10448,7 @@
 		)
 		(uuid "631741d3-3738-4e2e-984a-3f8739ed80a0")
 		(property "Sheetname" "Peripherials onboard"
-			(at 307.34 57.7084 0)
+			(at 269.24 53.8984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10457,7 +10457,7 @@
 			)
 		)
 		(property "Sheetfile" "Peripherials.kicad_sch"
-			(at 307.34 84.4046 0)
+			(at 269.24 80.5946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10474,7 +10474,7 @@
 		)
 	)
 	(sheet
-		(at 307.34 95.25)
+		(at 269.24 91.44)
 		(size 44.45 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10490,7 +10490,7 @@
 		)
 		(uuid "69fe28fb-10c0-48e0-bbb7-3ba87e7391ca")
 		(property "Sheetname" "Power supply"
-			(at 307.34 94.5384 0)
+			(at 269.24 90.7284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10499,7 +10499,7 @@
 			)
 		)
 		(property "Sheetfile" "untitled.kicad_sch"
-			(at 307.34 122.5046 0)
+			(at 269.24 118.6946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10516,7 +10516,7 @@
 		)
 	)
 	(sheet
-		(at 307.34 135.89)
+		(at 269.24 132.08)
 		(size 44.45 24.13)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10532,7 +10532,7 @@
 		)
 		(uuid "fd55efee-d528-4472-90b7-26f9ef0a56de")
 		(property "Sheetname" "Connectors"
-			(at 307.34 135.1784 0)
+			(at 269.24 131.3684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10541,7 +10541,7 @@
 			)
 		)
 		(property "Sheetfile" "connectors.kicad_sch"
-			(at 307.34 160.6046 0)
+			(at 269.24 156.7946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
