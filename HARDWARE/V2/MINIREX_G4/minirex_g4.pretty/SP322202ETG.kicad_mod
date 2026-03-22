@@ -1,0 +1,271 @@
+(footprint "SP322202ETG"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SP3222-02ETG-3")
+	(tags "TVS Diode (Uni-directional)")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "38b33358-8b6a-4922-be90-1f7e7900fecf")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SP3222-02ETG"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "7b4d2114-dd62-4bc5-a674-a35210cf2053")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3222_datasheet.pdf.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "55e9d657-572d-44f6-9cfb-675be63d2a7b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "10V (Typ) Clamp 3A Ipp Tvs Diode Surface Mount SOD-883"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bd0f673d-0c90-4f15-b29d-93528af128fa")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "0.55"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "faee3dd3-3803-4088-a235-c022918c611c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "LITTELFUSE"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b46d62f0-6e67-4be7-b3e0-e6f7cca638c6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "SP3222-02ETG"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a3890e6-82aa-44d8-a260-124c61beac2a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "576-SP3222-02ETG"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ceca8a1-d2b0-40ed-894e-b3cd426409d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/SP3222-02ETG?qs=5aG0NVq1C4x8KoJQa5l9oA%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c15a0888-896b-4981-ab3d-87fbbf5fce38")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" "SP3222-02ETG"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5fabc727-0b66-47dd-b461-285296141373")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/sp3222-02etg/littelfuse?utm_currency=USD&region=europe"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "424ea25a-42c4-4f79-a15c-51f4c4a368dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -0.22 0.71)
+		(end -0.22 0.71)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ce42e6b4-fafd-4aa0-ae0a-b8e91cac1eec")
+	)
+	(fp_line
+		(start -0.12 0.71)
+		(end -0.12 0.71)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6590444f-3c1b-4bbd-abde-16cbec8ed93c")
+	)
+	(fp_arc
+		(start -0.22 0.71)
+		(mid -0.17 0.66)
+		(end -0.12 0.71)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8a633ac4-6751-4cfe-a5ab-2df72484ca97")
+	)
+	(fp_arc
+		(start -0.12 0.71)
+		(mid -0.17 0.76)
+		(end -0.22 0.71)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3245fd7e-1063-48db-bcb2-0ead2fcdd06d")
+	)
+	(fp_rect
+		(start -0.39 -0.57)
+		(end 0.39 0.87)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "3abd162c-57e6-4f03-993a-121a48723118")
+	)
+	(fp_line
+		(start -0.3 -0.5)
+		(end 0.3 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "cb68ea2e-51ce-46fa-a32c-8ff19d806229")
+	)
+	(fp_line
+		(start -0.3 0.5)
+		(end -0.3 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b10b5531-1b14-47ee-8008-71dfe4344fa8")
+	)
+	(fp_line
+		(start 0.3 -0.5)
+		(end 0.3 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9ad09825-6669-4ee0-ab95-7f4c113a1bc9")
+	)
+	(fp_line
+		(start 0.3 0.5)
+		(end -0.3 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ebc35c8b-d039-4eb4-8a8f-b56e613e8d44")
+	)
+	(pad "1" smd rect
+		(at -0.175 0.325)
+		(size 0.225 0.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4de50a7e-815f-4ba8-9ecb-fd66b718b100")
+	)
+	(pad "2" smd rect
+		(at 0.175 0.325)
+		(size 0.225 0.35)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2abe5929-8140-4ac0-86d0-6623788b8c24")
+	)
+	(pad "3" smd rect
+		(at 0 -0.325 90)
+		(size 0.35 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5fd30f42-0fb7-4d34-9c54-3a15885ac6dd")
+	)
+	(embedded_fonts no)
+	(model "C:\\Users\\mathi\\Desktop\\projet\\libloader2\\SamacSys_Parts.3dshapes\\SP3222-02ETG.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

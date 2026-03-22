@@ -1,0 +1,283 @@
+(footprint "435151014824"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "435151014824-2")
+	(tags "Switch")
+	(property "Reference" "REF**"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "be496288-b96f-4ee7-9ec2-7aa4d794d18a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "435151014824"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ef9ac412-f364-434e-bdac-d92b9799423e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://componentsearchengine.com/Datasheets/2/435151014824.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b1640f9-c122-439e-b9df-287311acb6a1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Tactile Switches WS-TASV Tact Switch"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a067f3e9-72c2-4cb8-b1de-c61f92eb9510")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "1.4"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6145c187-998b-411b-bc47-09631f9ce55b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "710-435151014824"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6486a1a5-4ac3-4e72-bb1c-b59485edf0de")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/435151014824?qs=OlC7AqGiEDkCCtReGm3ZVw%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "09d14c3b-c434-4be8-bb11-4cd3d7c7226c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Wurth Elektronik"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f34c1f0-d0ed-4ea5-9e32-6925066aacf4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "435151014824"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63d52645-c5cd-4c13-aa1d-005c501321d1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.4 -0.9)
+		(end -2.4 -0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d5feda8f-88f6-4839-bc69-34d8c7ff0b88")
+	)
+	(fp_line
+		(start -2.4 -0.8)
+		(end -2.4 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "cb601c08-efaf-492f-a94e-7f3232a1ea26")
+	)
+	(fp_line
+		(start -1 -1.3)
+		(end 1 -1.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "177a8baa-4c1c-4d5a-ad26-ad85e3c31074")
+	)
+	(fp_line
+		(start -1 1.3)
+		(end 1 1.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1c1337d8-24f7-4fab-b987-f3f55183d4de")
+	)
+	(fp_arc
+		(start -2.4 -0.9)
+		(mid -2.35 -0.85)
+		(end -2.4 -0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3c455b38-1670-47a4-bfe9-a04d1b305711")
+	)
+	(fp_arc
+		(start -2.4 -0.8)
+		(mid -2.45 -0.85)
+		(end -2.4 -0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "2aa28bc9-5541-4042-9f6a-af7fc04851ef")
+	)
+	(fp_rect
+		(start -1.95 -1.5)
+		(end 1.975 1.475)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "bc6a2b48-fd4b-4b85-8445-4debb20dcfe2")
+	)
+	(fp_line
+		(start -1.5 -1.3)
+		(end 1.5 -1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3dbe73b7-0e72-4e34-b3fd-1bdb90124caf")
+	)
+	(fp_line
+		(start -1.5 1.3)
+		(end -1.5 -1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f8665ef5-4f1b-43cd-9c18-9dee8c24108d")
+	)
+	(fp_line
+		(start 1.5 -1.3)
+		(end 1.5 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "115914c5-a6f1-40e9-a052-f651e411125b")
+	)
+	(fp_line
+		(start 1.5 1.3)
+		(end -1.5 1.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "366c5509-8868-4981-bdd7-378d6dee12a2")
+	)
+	(pad "1" smd rect
+		(at -1.575 -0.85 90)
+		(size 0.6 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8368067e-ee22-4c29-a416-738a7e86c404")
+	)
+	(pad "2" smd rect
+		(at 1.575 -0.85 90)
+		(size 0.6 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "35355dc7-e3ea-4763-9fab-73692ec2041c")
+	)
+	(pad "3" smd rect
+		(at -1.575 0.85 90)
+		(size 0.6 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6560fe78-46db-4482-a949-ebd3229eecac")
+	)
+	(pad "4" smd rect
+		(at 1.575 0.85 90)
+		(size 0.6 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "afdbd150-7b26-4e74-8f77-fc05f9a6543b")
+	)
+	(pad "5" smd rect
+		(at -1.725 0)
+		(size 0.35 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "19390864-0d4e-43bd-968b-66db19ecaf6d")
+	)
+	(pad "6" smd rect
+		(at 1.725 0)
+		(size 0.35 0.7)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f957283c-92da-4611-b669-ce1859289f86")
+	)
+	(embedded_fonts no)
+	(model "C:/Users/mathi/Desktop/projet/libloader/SamacSys_Parts.3dshapes/435151014824.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

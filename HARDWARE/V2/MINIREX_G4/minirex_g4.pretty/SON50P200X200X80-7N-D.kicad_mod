@@ -1,0 +1,303 @@
+(footprint "SON50P200X200X80-7N-D"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "DFN6 (2x2)")
+	(tags "Integrated Circuit")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "d0a7986f-f19c-4685-8ab9-1e10e1b05044")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "LDL212PV33R"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a2b5d899-6b40-414b-a0a5-c26549038c44")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.st.com/resource/en/datasheet/ldl212.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2277d790-2089-4ead-879c-7531b4f7f5dd")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "LDO Voltage Regulators VFDFPN 6 2x2x0.75 PITCH 0.5"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "69874c28-b645-4f37-9a5b-a1ef47224289")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "0.8"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c98ba582-c72c-4778-9050-69f1f1964046")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "STMicroelectronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a9751e9-42f9-460a-a979-300646dc4084")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "LDL212PV33R"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "15264011-57e9-4744-a156-a9399c50bab6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "511-LDL212PV33R"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8524db82-45fe-4970-959a-5dabe8e84485")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/LDL212PV33R?qs=5aG0NVq1C4xm%252BbuBme%252BLZw%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3d96ec8-6461-4599-aeeb-a83a15219e43")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" "LDL212PV33R"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e450b08b-5400-42a3-ad6d-5dcaba94ccc0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/ldl212pv33r/stmicroelectronics?utm_currency=USD&region=nac"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c8df5579-6d42-4e31-9b21-5a66ea788563")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -1.375 -1.15)
+		(end -1.375 -1.025)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "470adc99-9a6d-486f-a495-a552cd5f8a4f")
+	)
+	(fp_line
+		(start -1.625 -1.25)
+		(end 1.625 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d04b347d-3475-4f66-94ac-bbca16e508ea")
+	)
+	(fp_line
+		(start -1.625 1.25)
+		(end -1.625 -1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6fe8e5f8-65c2-4bba-ba2d-2e4799dd2cfb")
+	)
+	(fp_line
+		(start 1.625 -1.25)
+		(end 1.625 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2a2d01e5-011d-450f-a62a-9e375b6a8105")
+	)
+	(fp_line
+		(start 1.625 1.25)
+		(end -1.625 1.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4572f9af-4008-4f30-95a1-c5dba0e8375a")
+	)
+	(fp_line
+		(start -1 -1)
+		(end 1 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "40bbfae2-0cee-4c5d-a8d5-2402ae809c37")
+	)
+	(fp_line
+		(start -1 -0.5)
+		(end -0.5 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6d1b1d9b-70f5-48ae-bee3-acf4c4fb8c62")
+	)
+	(fp_line
+		(start -1 1)
+		(end -1 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "afdcc24d-3992-4738-8ee7-8211bb2b5597")
+	)
+	(fp_line
+		(start 1 -1)
+		(end 1 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a9ab9b3e-7c70-4a9f-9876-4aac7156826b")
+	)
+	(fp_line
+		(start 1 1)
+		(end -1 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e0748d46-d556-43ed-8209-234d55354bf0")
+	)
+	(pad "1" smd rect
+		(at -1.05 -0.5 90)
+		(size 0.3 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fa2ef7d4-80b3-4924-b450-2ff39428ec98")
+	)
+	(pad "2" smd rect
+		(at -1.05 0 90)
+		(size 0.3 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a0f3fd06-adad-41dc-bc83-13646e22e18a")
+	)
+	(pad "3" smd rect
+		(at -1.05 0.5 90)
+		(size 0.3 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "483d0098-a780-4030-a011-fca4ff8fdd27")
+	)
+	(pad "4" smd rect
+		(at 1.05 0.5 90)
+		(size 0.3 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "9f8b5df3-d199-45c4-92de-dd0356218487")
+	)
+	(pad "5" smd rect
+		(at 1.05 0 90)
+		(size 0.3 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "868791d3-8b82-4856-aa37-c1e61ad8ea65")
+	)
+	(pad "6" smd rect
+		(at 1.05 -0.5 90)
+		(size 0.3 0.65)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5e4926bd-0ccb-42cd-a617-9ecafac25a25")
+	)
+	(pad "7" smd rect
+		(at 0 0)
+		(size 1.02 1.55)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fc4a2367-3243-4ba9-82b8-f1615582d3ef")
+	)
+	(embedded_fonts no)
+	(model "C:\\Users\\mathi\\Desktop\\projet\\libloader2\\SamacSys_Parts.3dshapes\\LDL212PV33R.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

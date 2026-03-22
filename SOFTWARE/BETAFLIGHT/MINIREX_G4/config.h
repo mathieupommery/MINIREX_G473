@@ -66,6 +66,7 @@
 #define SPI1_SDO_PIN         PA7
 #define GYRO_1_CS_PIN        PC15
 #define GYRO_1_EXTI_PIN      PC14
+#define GYRO1_CLKIN_PIN      PC13
 #define GYRO_1_SPI_INSTANCE  SPI1
 
 
@@ -82,19 +83,14 @@
 
 #define PINIO1_PIN           PA4
 
-
-
-
 #define TIMER_PIN_MAPPING \
     TIMER_PIN_MAP( 1, PA0 , 2,  0) \
-    TIMER_PIN_MAP( 2, PA1 , 2,  0) \
-    TIMER_PIN_MAP( 3, PA2 , 2,  0) \
-    TIMER_PIN_MAP( 4, PA3 , 2,  0) \
-    TIMER_PIN_MAP( 5, PA15 , 1,  0) \
+    TIMER_PIN_MAP( 2, PA1 , 2,  1) \
+    TIMER_PIN_MAP( 3, PA2 , 2,  2) \
+    TIMER_PIN_MAP( 4, PA3 , 2,  3) \
+    TIMER_PIN_MAP( 5, PA15 , 1,  4) \
     TIMER_PIN_MAP( 6, PB9, 1, -1) \
-    TIMER_PIN_MAP( 7, PC13 , 2, -1) 
-
-
+    TIMER_PIN_MAP( 7, PC13 , 1, -1) 
 
 #define TIMUP2_DMA_OPT      0
 
