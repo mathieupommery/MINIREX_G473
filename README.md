@@ -1,5 +1,8 @@
 # STM32G473 Flight Controller (20x20mm)
 
+# NEWS : 
+* V2 reduced cost by changing part of the compoment to asian brand, assembly now possible with jlc and lcsc part stock, a price per unit produced graph is disponible below 
+
 ## Overview
 High-performance flight controller based on the **STM32G473** MCU, featuring a compact 20x20mm mounting pattern. This board is specifically designed for high-voltage builds (up to 12S) and high-speed processing, utilizing a 6-layer PCB stackup with all components mounted on a single side for optimal integration and cooling.
 ## Hardware Visuals
