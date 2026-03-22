@@ -83,6 +83,10 @@ The following table demonstrates the estimated component costs based on Mouser v
 | **TOTAL COST (BOM)** | **-** | **-** | **-** | **-** | **-** | **$29.96** | **$1724.00** | **$13417.00** |
 | **AVERAGE PRICE PER BOARD** | **-** | **-** | **-** | **-** | **-** | **$29.96** | **$17.24** | **$13.42** |
 
+## Cost (BOM) V2
+V2 version is here for cost optimisation purposes and for the possibility to assemble it completly on jlcpcb with lcsc compoment part, i changed few compoment like Nmos for buzzer or boot button, and i priviledged asian brand here is a graph with the cost per unit according to unit produced : 
+
+<img width="1000" height="600" alt="costvsunit" src="https://github.com/user-attachments/assets/8858caed-adc0-4452-a49e-b1b2fff44d41" />
 
 ## Hardware Design Principles
 The 6-layer design ensures superior EMI shielding and thermal dissipation. 
