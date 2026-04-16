@@ -21,7 +21,7 @@
 
 #pragma once
 
-#define FC_TARGET_MCU     STM32G473
+#define FC_TARGET_MCU     STM32G47X
 
 #define BOARD_NAME        MINIREX_G4
 #define MANUFACTURER_ID   POMMERY
