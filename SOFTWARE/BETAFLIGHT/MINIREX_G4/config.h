@@ -93,7 +93,8 @@
     TIMER_PIN_MAP( 7, PC13 , 1, -1) 
 
 #define TIMUP2_DMA_OPT      0
-
+#define ADC1_DMA_OPT        8
+#define ADC2_DMA_OPT        7
 
 #define DEFAULT_RX_FEATURE FEATURE_RX_SERIAL
 
@@ -103,7 +104,7 @@
 #define BEEPER_PWM_HZ 2500
 
 #define PINIO1_BOX 40
-
+#define GYRO_1_ALIGN                 CW90_DEG
 
 
 #define ENSURE_MPU_DATA_READY_IS_LOW
