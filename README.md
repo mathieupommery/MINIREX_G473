@@ -110,10 +110,8 @@ provide shielded power from signal and from the outside.
 
 ###  Test in fly :
 
-<div align="center">
-  <video src="DOC/v1_image/vid.mp4" width="90%" controls muted>
-  </video>
-</div>
+> [!TIP]
+> La vidéo de démonstration est disponible ici : [DOC/image_v1/video.mp4](./DOC/image_v1/vid.mp4)
 
 
 
