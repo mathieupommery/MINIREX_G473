@@ -110,9 +110,16 @@ provide shielded power from signal and from the outside.
 
 ###  Test in fly :
 
-A video is in the DOC/result_v1 folder 
-
-
+<div align="center">
+  <kbd>
+    <video src="DOC/image_v1/votre_nom_video.mp4" width="100%" controls muted poster="DOC/image_v1/une_image_preview.jpg">
+      Votre navigateur ne supporte pas la lecture de la vidéo.
+    </video>
+  </kbd>
+  <p align="center">
+    <b>Test in fly : Démo de l'interface</b>
+  </p>
+</div>
 
 
 
