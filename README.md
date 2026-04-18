@@ -8,7 +8,7 @@ High-performance flight controller based on the **STM32G473** MCU, featuring a c
 ## Hardware Visuals
 
 ### PCB View (V1)
-| Front View | Back View |
+<img width="1530" height="2040" alt="with_coin" src="https://github.com/user-attachments/assets/c651b9a2-0a40-4f8b-9f05-c5cbd4384ecc" />
 ### CAD View (V1)
 
  <img src="https://github.com/user-attachments/assets/2dd6c3e0-6864-4fc9-9af6-0d84cc0f538e" width="48%">  <img src="https://github.com/user-attachments/assets/95e66dbe-a091-44e6-9f56-f2413c5e3434" width="48%"> 
