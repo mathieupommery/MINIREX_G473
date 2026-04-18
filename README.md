@@ -110,8 +110,7 @@ provide shielded power from signal and from the outside.
 
 ###  Test in fly :
 
-> [!TIP]
-> La vidéo de démonstration est disponible ici : [DOC/image_v1/video.mp4](./DOC/image_v1/vid.mp4)
+> La vidéo de démonstration est disponible ici : [DOC/image_v1/video.mp4](./DOC/v1_image/vid.mp4)
 
 
 
