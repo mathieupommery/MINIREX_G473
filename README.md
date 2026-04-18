@@ -111,7 +111,7 @@ provide shielded power from signal and from the outside.
 ###  Test in fly :
 
 <div align="center">
-  <video src="DOC/image_v1/vid.mp4" width="90%" controls muted>
+  <video src="DOC/v1_image/vid.mp4" width="90%" controls muted>
   </video>
 </div>
 
