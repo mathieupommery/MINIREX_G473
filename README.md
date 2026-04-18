@@ -98,5 +98,23 @@ The 6-layer design ensures superior EMI shielding and thermal dissipation.
 stackup: signal-gnd-signal-gnd-power-gnd   
 provide shielded power from signal and from the outside.
 
+## Result and test : 
+
+### Before reflow : 
+<img width="1530" height="2040" alt="before_reflow" src="https://github.com/user-attachments/assets/aa51ef75-ef1f-4845-b730-9b4b98acdefd" />
+
+
+###  Mounted on apex evo 5 inch : 
+
+<img width="1530" height="2040" alt="mounted" src="https://github.com/user-attachments/assets/c0ee0a5b-0462-4240-8a16-5416501e7498" />
+
+###  Test in fly :
+
+A video is in the DOC/result_v1 folder 
+
+
+
+
+
 ## License
 Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International.
