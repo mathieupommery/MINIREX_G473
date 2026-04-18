@@ -7,11 +7,16 @@
 High-performance flight controller based on the **STM32G473** MCU, featuring a compact 20x20mm mounting pattern. This board is specifically designed for high-voltage builds (up to 12S) and high-speed processing, utilizing a 6-layer PCB stackup with all components mounted on a single side for optimal integration and cooling.
 ## Hardware Visuals
 
-### Front View
-<img width="827" height="845" alt="front" src="https://github.com/user-attachments/assets/2dd6c3e0-6864-4fc9-9af6-0d84cc0f538e" />
+### PCB View (V1)
+| Front View | Back View |
+### CAD View (V1)
 
-### Back View (6-Layer Copper)
-<img width="781" height="812" alt="back" src="https://github.com/user-attachments/assets/95e66dbe-a091-44e6-9f56-f2413c5e3434" />
+
+| <img width="827" height="845" alt="front" src="https://github.com/user-attachments/assets/2dd6c3e0-6864-4fc9-9af6-0d84cc0f538e" /> | <img width="781" height="812" alt="back" src="https://github.com/user-attachments/assets/95e66dbe-a091-44e6-9f56-f2413c5e3434" /> |
+
+
+
+
 
 ## Technical Specifications
 ### Core System
