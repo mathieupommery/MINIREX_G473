@@ -108,4 +108,4 @@
 #define BEEPER_PWM_HZ 2500
 
 #define PINIO1_BOX 40
-#define GYRO_1_ALIGN                 CW90_DEG
+#define GYRO_1_ALIGN                 CW0_DEG
